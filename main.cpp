@@ -6,8 +6,6 @@
 
 #include <iostream>
 #include <conio.h> // Windows library only.
-//#include <ncurses.h>
-//#include <unistd.h>
 using namespace std;
 bool gameOver;
 const int width = 20;
